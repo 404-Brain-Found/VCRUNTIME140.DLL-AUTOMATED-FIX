@@ -151,7 +151,7 @@ This script is designed and tested for **Windows 10 and Windows 11** only. It ma
 
 **404 Brain Found**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@404brainfound)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@404BrainFound-T)
 
 If this tool helped you, consider **liking** the video and **subscribing** to the channel! 🙏
 
